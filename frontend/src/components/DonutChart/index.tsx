@@ -24,10 +24,6 @@ function DonutChart() {
         });
     }, []);
     
-
-    
-    
-
     const options = {
         legend: {
             show: true
